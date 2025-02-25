@@ -59,10 +59,10 @@ jobs:
         run: |    
           if [ ${{ inputs.phone }} = '小米10' ]; then
             echo "选择小米10配置"
-            DEFCONFIG=vendor/umi_defconfig
+            DEFCONFIG=vendor/lahaina-perf_defconfig
           elif [ ${{ inputs.phone }} = '小米10pro' ]; then
             echo "选择小米10pro配置"
-            DEFCONFIG=vendor/cmi_defconfig
+            DEFCONFIG=vendor/lahaina-perf_defconfig
           else
             echo "非法内容"
           fi
