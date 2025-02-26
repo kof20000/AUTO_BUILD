@@ -1,3 +1,6 @@
+index ad15c232f..ba3437036 100644
+--- a/arch/arm64/configs/vendor/cmi_defconfig
++++ b/arch/arm64/configs/vendor/cmi_defconfig
 #
 # Automatically generated file; DO NOT EDIT.
 # Linux/arm64 5.4.147 Kernel Configuration
