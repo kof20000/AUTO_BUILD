@@ -2,7 +2,7 @@ diff --git a/arch/arm64/configs/vendor/lahaina-perf_defconfig b/arch/arm64/confi
 index ad15c232f..ba3437036 100644
 --- a/arch/arm64/configs/vendor/lahaina-perf_defconfig
 +++ b/arch/arm64/configs/vendor/lahaina-perf_defconfig
-@@ -951,3 +950,26 @@ CONFIG_CRYPTO_LIB_CHACHA=y
+@@ -952,3 +952,26 @@ CONFIG_CRYPTO_LIB_CHACHA=y
 CONFIG_CRYPTO_LIB_CURVE25519=y
 CONFIG_CRYPTO_LIB_POLY1305=y
 CONFIG_CRYPTO_LIB_CHACHA20POLY1305=y
