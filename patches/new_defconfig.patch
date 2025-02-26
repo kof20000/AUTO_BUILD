@@ -2,10 +2,10 @@ diff --git a/arch/arm64/configs/vendor/lahaina-perf_defconfig b/arch/arm64/confi
 index ad15c232f..ba3437036 100644
 --- a/arch/arm64/configs/vendor/lahaina-perf_defconfig
 +++ b/arch/arm64/configs/vendor/lahaina-perf_defconfig
-@@ -6098,3 +6098,26 @@ CONFIG_ARCH_HAS_DEVMEM_IS_ALLOWED=y
- # CONFIG_DEBUG_ALIGN_RODATA is not set
- # CONFIG_ARM64_STRICT_BREAK_BEFORE_MAKE is not set
- # CONFIG_CORESIGHT is not set
+@@ -951,3 +951,26 @@ CONFIG_CRYPTO_LIB_CHACHA=y
+CONFIG_CRYPTO_LIB_CURVE25519=y
+CONFIG_CRYPTO_LIB_POLY1305=y
+CONFIG_CRYPTO_LIB_CHACHA20POLY1305=y
 +CONFIG_MODULES=y
 +CONFIG_KSU=y
 +CONFIG_KSU_SUSFS=y
